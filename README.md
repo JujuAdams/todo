@@ -17,3 +17,4 @@
 - Vinyl I guess?
 - Mech football
 - General purpose multiplayer library I suppose, it's been on my mind
+- Firebase-based matchmaking
