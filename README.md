@@ -10,4 +10,6 @@
 - Boolean Operations On Polygons
 - Thud and Bonk
 - Bento... always Bento...
+- Hassle YYG about HTML5 support for Scribble
+- Is there a way to get iota to capture events?
 - Vinyl I guess?
