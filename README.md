@@ -6,6 +6,7 @@
 - Migrate all documentation to Faulty's rad template (including old Scribble documentation I suppose)
 - Write Snitch integrations for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
 - Separate analytics integration libraries for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
+- Implement Greg's Elephant minimizer
 - Figure out that dumb alpha channel problem on some AMD chips for Bulb
 - Add broadcast/listener await command to Coroutines
 - Boolean Operations On Polygons
