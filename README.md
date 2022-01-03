@@ -1,1 +1,13 @@
 # todo
+
+- Fix the action-related weirdness for Chatterbox
+- Release Scribble v8
+- Virtual controls for Input
+- Write Snitch integrations for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
+- Separate analytics integration libraries for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
+- Figure out that dumb alpha channel problem on some AMD chips for Bulb
+- Add broadcast/listener await command to Coroutines
+- Boolean Operations On Polygons
+- Thud and Bonk
+- Bento... always Bento...
+- Vinyl I guess?
