@@ -2,7 +2,7 @@
 
 - Fix the action-related weirdness for Chatterbox
 - Release Scribble v8
-- Virtual controls amd accessibility features for Input
+- Virtual controls and accessibility features for Input
 - Migrate all documentation to Faulty's rad template (including old Scribble documentation I suppose)
 - Write Snitch integrations for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
 - Separate analytics integration libraries for Google Analytics, GameAnalytics, sentry.io, and DeltaDNA
