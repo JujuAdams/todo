@@ -1,6 +1,7 @@
 # todo
 
 - Update Texan
+- Update Scribblebox
 - Release Scribble v8
 - Virtual controls and accessibility features for Input
 - Migrate all documentation to Faulty's rad template (including old Scribble documentation I suppose)
