@@ -15,6 +15,6 @@
 - Hassle YYG about HTML5 support for Scribble
 - Is there a way to get iota to capture events?
 - Vinyl I guess?
-- Mech football
 - General purpose multiplayer library I suppose, it's been on my mind
 - Firebase-based matchmaking
+- Mecha Rugby
